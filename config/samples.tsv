@@ -1,0 +1,7 @@
+sample	condition	run	bytes	url
+mu_SA-PE-006	mu	ERR458761	81911298	https://ftp.sra.ebi.ac.uk/vol1/fastq/ERR458/ERR458761/ERR458761.fastq.gz
+mu_SA-PE-016	mu	ERR458705	75212154	https://ftp.sra.ebi.ac.uk/vol1/fastq/ERR458/ERR458705/ERR458705.fastq.gz
+mu_SA-PE-025	mu	ERR458656	73183068	https://ftp.sra.ebi.ac.uk/vol1/fastq/ERR458/ERR458656/ERR458656.fastq.gz
+wt_SA-PE-017	wt	ERR459195	121840231	https://ftp.sra.ebi.ac.uk/vol1/fastq/ERR459/ERR459195/ERR459195.fastq.gz
+wt_SA-PE-018	wt	ERR459146	126180150	https://ftp.sra.ebi.ac.uk/vol1/fastq/ERR459/ERR459146/ERR459146.fastq.gz
+wt_SA-PE-066	wt	ERR458985	72721332	https://ftp.sra.ebi.ac.uk/vol1/fastq/ERR458/ERR458985/ERR458985.fastq.gz
