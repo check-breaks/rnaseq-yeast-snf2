@@ -6,7 +6,9 @@ with open(config["samples"]) as f:
     SAMPLES = {row["sample"]: row for row in csv.DictReader(f, delimiter="\t")}
 
 include: "rules/download.smk"
+include: "rules/qc.smk"
 
 rule all:
     input:
-        expand("data/raw/{sample}.fastq.gz", sample=SAMPLES)
+        expand("data/raw/{sample}.fastq.gz", sample=SAMPLES),
+        "results/multiqc/multiqc_report.html",
