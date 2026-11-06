@@ -1,4 +1,4 @@
 channels:
   - conda-forge
 dependencies:
-  - curl
+  - curl=8.23.0
