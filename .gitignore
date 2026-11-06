@@ -2,3 +2,4 @@ results/
 resources/
 data/
 .snakemake/
+logs/
