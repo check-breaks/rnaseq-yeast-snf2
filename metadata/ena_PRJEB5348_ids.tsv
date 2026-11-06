@@ -1,0 +1,673 @@
+run_accession	sample_alias	sample_accession	experiment_accession	library_name	experiment_title
+ERR458493	wt_sample1	SAMEA2400697	ERX424840	wild type	Illumina HiSeq 2000 sequencing
+ERR458502	mu_sample3	SAMEA2400706	ERX424849	mutant	Illumina HiSeq 2000 sequencing
+ERR458503	mu_sample4	SAMEA2400707	ERX424850	mutant	Illumina HiSeq 2000 sequencing
+ERR458509	mu_sample10	SAMEA2400713	ERX424856	mutant	Illumina HiSeq 2000 sequencing
+ERR458517	mu_sample18	SAMEA2400721	ERX424864	mutant	Illumina HiSeq 2000 sequencing
+ERR458528	mu_sample29	SAMEA2400732	ERX424875	mutant	Illumina HiSeq 2000 sequencing
+ERR458530	mu_sample31	SAMEA2400734	ERX424877	mutant	Illumina HiSeq 2000 sequencing
+ERR458535	mu_sample36	SAMEA2400739	ERX424882	mutant	Illumina HiSeq 2000 sequencing
+ERR458552	mu_sample53	SAMEA2400756	ERX424899	mutant	Illumina HiSeq 2000 sequencing
+ERR458553	mu_sample54	SAMEA2400757	ERX424900	mutant	Illumina HiSeq 2000 sequencing
+ERR458556	mu_sample57	SAMEA2400760	ERX424903	mutant	Illumina HiSeq 2000 sequencing
+ERR458562	mu_sample63	SAMEA2400766	ERX424909	mutant	Illumina HiSeq 2000 sequencing
+ERR458567	mu_sample68	SAMEA2400771	ERX424914	mutant	Illumina HiSeq 2000 sequencing
+ERR458568	mu_sample69	SAMEA2400772	ERX424915	mutant	Illumina HiSeq 2000 sequencing
+ERR458576	mu_sample77	SAMEA2400780	ERX424923	mutant	Illumina HiSeq 2000 sequencing
+ERR458583	mu_sample84	SAMEA2400787	ERX424930	mutant	Illumina HiSeq 2000 sequencing
+ERR458585	mu_sample86	SAMEA2400789	ERX424932	mutant	Illumina HiSeq 2000 sequencing
+ERR458587	mu_sample88	SAMEA2400791	ERX424934	mutant	Illumina HiSeq 2000 sequencing
+ERR458588	mu_sample89	SAMEA2400792	ERX424935	mutant	Illumina HiSeq 2000 sequencing
+ERR458595	mu_sample96	SAMEA2400799	ERX424942	mutant	Illumina HiSeq 2000 sequencing
+ERR458601	mu_sample102	SAMEA2400805	ERX424948	mutant	Illumina HiSeq 2000 sequencing
+ERR458603	mu_sample104	SAMEA2400807	ERX424950	mutant	Illumina HiSeq 2000 sequencing
+ERR458609	mu_sample110	SAMEA2400813	ERX424956	mutant	Illumina HiSeq 2000 sequencing
+ERR458615	mu_sample116	SAMEA2400819	ERX424962	mutant	Illumina HiSeq 2000 sequencing
+ERR458623	mu_sample124	SAMEA2400827	ERX424970	mutant	Illumina HiSeq 2000 sequencing
+ERR458626	mu_sample127	SAMEA2400830	ERX424973	mutant	Illumina HiSeq 2000 sequencing
+ERR458627	mu_sample128	SAMEA2400831	ERX424974	mutant	Illumina HiSeq 2000 sequencing
+ERR458635	mu_sample136	SAMEA2400839	ERX424982	mutant	Illumina HiSeq 2000 sequencing
+ERR458638	mu_sample139	SAMEA2400842	ERX424985	mutant	Illumina HiSeq 2000 sequencing
+ERR458640	mu_sample141	SAMEA2400844	ERX424987	mutant	Illumina HiSeq 2000 sequencing
+ERR458644	mu_sample145	SAMEA2400848	ERX424991	mutant	Illumina HiSeq 2000 sequencing
+ERR458646	mu_sample147	SAMEA2400850	ERX424993	mutant	Illumina HiSeq 2000 sequencing
+ERR458648	mu_sample149	SAMEA2400852	ERX424995	mutant	Illumina HiSeq 2000 sequencing
+ERR458663	mu_sample164	SAMEA2400867	ERX425010	mutant	Illumina HiSeq 2000 sequencing
+ERR458666	mu_sample167	SAMEA2400870	ERX425013	mutant	Illumina HiSeq 2000 sequencing
+ERR458667	mu_sample168	SAMEA2400871	ERX425014	mutant	Illumina HiSeq 2000 sequencing
+ERR458671	mu_sample172	SAMEA2400875	ERX425018	mutant	Illumina HiSeq 2000 sequencing
+ERR458675	mu_sample176	SAMEA2400879	ERX425022	mutant	Illumina HiSeq 2000 sequencing
+ERR458678	mu_sample179	SAMEA2400882	ERX425025	mutant	Illumina HiSeq 2000 sequencing
+ERR458680	mu_sample181	SAMEA2400884	ERX425027	mutant	Illumina HiSeq 2000 sequencing
+ERR458682	mu_sample183	SAMEA2400886	ERX425029	mutant	Illumina HiSeq 2000 sequencing
+ERR458683	mu_sample184	SAMEA2400887	ERX425030	mutant	Illumina HiSeq 2000 sequencing
+ERR458694	mu_sample195	SAMEA2400898	ERX425041	mutant	Illumina HiSeq 2000 sequencing
+ERR458699	mu_sample200	SAMEA2400903	ERX425046	mutant	Illumina HiSeq 2000 sequencing
+ERR458700	mu_sample201	SAMEA2400904	ERX425047	mutant	Illumina HiSeq 2000 sequencing
+ERR458702	mu_sample203	SAMEA2400906	ERX425049	mutant	Illumina HiSeq 2000 sequencing
+ERR458703	mu_sample204	SAMEA2400907	ERX425050	mutant	Illumina HiSeq 2000 sequencing
+ERR458704	mu_sample205	SAMEA2400908	ERX425051	mutant	Illumina HiSeq 2000 sequencing
+ERR458713	mu_sample214	SAMEA2400917	ERX425060	mutant	Illumina HiSeq 2000 sequencing
+ERR458718	mu_sample219	SAMEA2400922	ERX425065	mutant	Illumina HiSeq 2000 sequencing
+ERR458724	mu_sample225	SAMEA2400928	ERX425071	mutant	Illumina HiSeq 2000 sequencing
+ERR458736	mu_sample237	SAMEA2400940	ERX425083	mutant	Illumina HiSeq 2000 sequencing
+ERR458739	mu_sample240	SAMEA2400943	ERX425086	mutant	Illumina HiSeq 2000 sequencing
+ERR458743	mu_sample244	SAMEA2400947	ERX425090	mutant	Illumina HiSeq 2000 sequencing
+ERR458746	mu_sample247	SAMEA2400950	ERX425093	mutant	Illumina HiSeq 2000 sequencing
+ERR458747	mu_sample248	SAMEA2400951	ERX425094	mutant	Illumina HiSeq 2000 sequencing
+ERR458766	mu_sample267	SAMEA2400970	ERX425113	mutant	Illumina HiSeq 2000 sequencing
+ERR458774	mu_sample275	SAMEA2400978	ERX425121	mutant	Illumina HiSeq 2000 sequencing
+ERR458777	mu_sample278	SAMEA2400981	ERX425124	mutant	Illumina HiSeq 2000 sequencing
+ERR458786	mu_sample287	SAMEA2400990	ERX425133	mutant	Illumina HiSeq 2000 sequencing
+ERR458788	mu_sample289	SAMEA2400992	ERX425135	mutant	Illumina HiSeq 2000 sequencing
+ERR458790	mu_sample291	SAMEA2400994	ERX425137	mutant	Illumina HiSeq 2000 sequencing
+ERR458799	mu_sample300	SAMEA2401003	ERX425146	mutant	Illumina HiSeq 2000 sequencing
+ERR458805	mu_sample306	SAMEA2401009	ERX425152	mutant	Illumina HiSeq 2000 sequencing
+ERR458826	mu_sample327	SAMEA2401030	ERX425173	mutant	Illumina HiSeq 2000 sequencing
+ERR458828	mu_sample329	SAMEA2401032	ERX425175	mutant	Illumina HiSeq 2000 sequencing
+ERR458830	mu_sample331	SAMEA2401034	ERX425177	mutant	Illumina HiSeq 2000 sequencing
+ERR458831	mu_sample332	SAMEA2401035	ERX425178	mutant	Illumina HiSeq 2000 sequencing
+ERR458833	mu_sample334	SAMEA2401037	ERX425180	mutant	Illumina HiSeq 2000 sequencing
+ERR458834	mu_sample335	SAMEA2401038	ERX425181	mutant	Illumina HiSeq 2000 sequencing
+ERR458892	wt_sample22	SAMEA2401101	ERX425239	wild type	Illumina HiSeq 2000 sequencing
+ERR458896	wt_sample26	SAMEA2401105	ERX425243	wild type	Illumina HiSeq 2000 sequencing
+ERR458898	wt_sample28	SAMEA2401107	ERX425245	wild type	Illumina HiSeq 2000 sequencing
+ERR458900	wt_sample30	SAMEA2401109	ERX425247	wild type	Illumina HiSeq 2000 sequencing
+ERR458913	wt_sample43	SAMEA2401122	ERX425260	wild type	Illumina HiSeq 2000 sequencing
+ERR458916	wt_sample46	SAMEA2401125	ERX425263	wild type	Illumina HiSeq 2000 sequencing
+ERR458917	wt_sample47	SAMEA2401126	ERX425264	wild type	Illumina HiSeq 2000 sequencing
+ERR458919	wt_sample49	SAMEA2401128	ERX425266	wild type	Illumina HiSeq 2000 sequencing
+ERR458920	wt_sample50	SAMEA2401129	ERX425267	wild type	Illumina HiSeq 2000 sequencing
+ERR458931	wt_sample61	SAMEA2401140	ERX425278	wild type	Illumina HiSeq 2000 sequencing
+ERR458932	wt_sample62	SAMEA2401141	ERX425279	wild type	Illumina HiSeq 2000 sequencing
+ERR458933	wt_sample63	SAMEA2401142	ERX425280	wild type	Illumina HiSeq 2000 sequencing
+ERR458943	wt_sample73	SAMEA2401152	ERX425290	wild type	Illumina HiSeq 2000 sequencing
+ERR458960	wt_sample90	SAMEA2401169	ERX425307	wild type	Illumina HiSeq 2000 sequencing
+ERR458964	wt_sample94	SAMEA2401173	ERX425311	wild type	Illumina HiSeq 2000 sequencing
+ERR458970	wt_sample100	SAMEA2401179	ERX425317	wild type	Illumina HiSeq 2000 sequencing
+ERR458977	wt_sample107	SAMEA2401186	ERX425324	wild type	Illumina HiSeq 2000 sequencing
+ERR458978	wt_sample108	SAMEA2401187	ERX425325	wild type	Illumina HiSeq 2000 sequencing
+ERR458981	wt_sample111	SAMEA2401190	ERX425328	wild type	Illumina HiSeq 2000 sequencing
+ERR458983	wt_sample113	SAMEA2401192	ERX425330	wild type	Illumina HiSeq 2000 sequencing
+ERR458996	wt_sample126	SAMEA2401205	ERX425343	wild type	Illumina HiSeq 2000 sequencing
+ERR459001	wt_sample131	SAMEA2401210	ERX425348	wild type	Illumina HiSeq 2000 sequencing
+ERR459010	wt_sample140	SAMEA2401219	ERX425357	wild type	Illumina HiSeq 2000 sequencing
+ERR459011	wt_sample141	SAMEA2401220	ERX425358	wild type	Illumina HiSeq 2000 sequencing
+ERR459013	wt_sample143	SAMEA2401222	ERX425360	wild type	Illumina HiSeq 2000 sequencing
+ERR459022	wt_sample152	SAMEA2401231	ERX425369	wild type	Illumina HiSeq 2000 sequencing
+ERR459029	wt_sample159	SAMEA2401238	ERX425376	wild type	Illumina HiSeq 2000 sequencing
+ERR459038	wt_sample168	SAMEA2401247	ERX425385	wild type	Illumina HiSeq 2000 sequencing
+ERR459053	wt_sample183	SAMEA2401262	ERX425400	wild type	Illumina HiSeq 2000 sequencing
+ERR459060	wt_sample190	SAMEA2401269	ERX425407	wild type	Illumina HiSeq 2000 sequencing
+ERR459065	wt_sample195	SAMEA2401274	ERX425412	wild type	Illumina HiSeq 2000 sequencing
+ERR459070	wt_sample200	SAMEA2401279	ERX425417	wild type	Illumina HiSeq 2000 sequencing
+ERR459090	wt_sample220	SAMEA2401299	ERX425437	wild type	Illumina HiSeq 2000 sequencing
+ERR459098	wt_sample228	SAMEA2401307	ERX425445	wild type	Illumina HiSeq 2000 sequencing
+ERR459099	wt_sample229	SAMEA2401308	ERX425446	wild type	Illumina HiSeq 2000 sequencing
+ERR459100	wt_sample230	SAMEA2401309	ERX425447	wild type	Illumina HiSeq 2000 sequencing
+ERR459101	wt_sample231	SAMEA2401310	ERX425448	wild type	Illumina HiSeq 2000 sequencing
+ERR459107	wt_sample237	SAMEA2401316	ERX425454	wild type	Illumina HiSeq 2000 sequencing
+ERR459116	wt_sample246	SAMEA2401325	ERX425463	wild type	Illumina HiSeq 2000 sequencing
+ERR459119	wt_sample249	SAMEA2401328	ERX425466	wild type	Illumina HiSeq 2000 sequencing
+ERR459127	wt_sample257	SAMEA2401336	ERX425474	wild type	Illumina HiSeq 2000 sequencing
+ERR459131	wt_sample261	SAMEA2401340	ERX425478	wild type	Illumina HiSeq 2000 sequencing
+ERR459132	wt_sample262	SAMEA2401341	ERX425479	wild type	Illumina HiSeq 2000 sequencing
+ERR459134	wt_sample264	SAMEA2401343	ERX425481	wild type	Illumina HiSeq 2000 sequencing
+ERR459135	wt_sample265	SAMEA2401344	ERX425482	wild type	Illumina HiSeq 2000 sequencing
+ERR459137	wt_sample267	SAMEA2401346	ERX425484	wild type	Illumina HiSeq 2000 sequencing
+ERR459145	wt_sample275	SAMEA2401354	ERX425492	wild type	Illumina HiSeq 2000 sequencing
+ERR459148	wt_sample278	SAMEA2401357	ERX425495	wild type	Illumina HiSeq 2000 sequencing
+ERR459158	wt_sample288	SAMEA2401367	ERX425505	wild type	Illumina HiSeq 2000 sequencing
+ERR459164	wt_sample294	SAMEA2401373	ERX425511	wild type	Illumina HiSeq 2000 sequencing
+ERR459169	wt_sample299	SAMEA2401378	ERX425516	wild type	Illumina HiSeq 2000 sequencing
+ERR459170	wt_sample300	SAMEA2401379	ERX425517	wild type	Illumina HiSeq 2000 sequencing
+ERR459173	wt_sample303	SAMEA2401382	ERX425520	wild type	Illumina HiSeq 2000 sequencing
+ERR459177	wt_sample307	SAMEA2401386	ERX425524	wild type	Illumina HiSeq 2000 sequencing
+ERR459189	wt_sample319	SAMEA2401398	ERX425536	wild type	Illumina HiSeq 2000 sequencing
+ERR459199	wt_sample329	SAMEA2401408	ERX425546	wild type	Illumina HiSeq 2000 sequencing
+ERR459205	wt_sample335	SAMEA2401414	ERX425552	wild type	Illumina HiSeq 2000 sequencing
+ERR458514	mu_sample15	SAMEA2400718	ERX424861	mutant	Illumina HiSeq 2000 sequencing
+ERR458515	mu_sample16	SAMEA2400719	ERX424862	mutant	Illumina HiSeq 2000 sequencing
+ERR458526	mu_sample27	SAMEA2400730	ERX424873	mutant	Illumina HiSeq 2000 sequencing
+ERR458529	mu_sample30	SAMEA2400733	ERX424876	mutant	Illumina HiSeq 2000 sequencing
+ERR458538	mu_sample39	SAMEA2400742	ERX424885	mutant	Illumina HiSeq 2000 sequencing
+ERR458546	mu_sample47	SAMEA2400750	ERX424893	mutant	Illumina HiSeq 2000 sequencing
+ERR458548	mu_sample49	SAMEA2400752	ERX424895	mutant	Illumina HiSeq 2000 sequencing
+ERR458555	mu_sample56	SAMEA2400759	ERX424902	mutant	Illumina HiSeq 2000 sequencing
+ERR458558	mu_sample59	SAMEA2400762	ERX424905	mutant	Illumina HiSeq 2000 sequencing
+ERR458561	mu_sample62	SAMEA2400765	ERX424908	mutant	Illumina HiSeq 2000 sequencing
+ERR458563	mu_sample64	SAMEA2400767	ERX424910	mutant	Illumina HiSeq 2000 sequencing
+ERR458569	mu_sample70	SAMEA2400773	ERX424916	mutant	Illumina HiSeq 2000 sequencing
+ERR458572	mu_sample73	SAMEA2400776	ERX424919	mutant	Illumina HiSeq 2000 sequencing
+ERR458574	mu_sample75	SAMEA2400778	ERX424921	mutant	Illumina HiSeq 2000 sequencing
+ERR458594	mu_sample95	SAMEA2400798	ERX424941	mutant	Illumina HiSeq 2000 sequencing
+ERR458605	mu_sample106	SAMEA2400809	ERX424952	mutant	Illumina HiSeq 2000 sequencing
+ERR458606	mu_sample107	SAMEA2400810	ERX424953	mutant	Illumina HiSeq 2000 sequencing
+ERR458610	mu_sample111	SAMEA2400814	ERX424957	mutant	Illumina HiSeq 2000 sequencing
+ERR458611	mu_sample112	SAMEA2400815	ERX424958	mutant	Illumina HiSeq 2000 sequencing
+ERR458618	mu_sample119	SAMEA2400822	ERX424965	mutant	Illumina HiSeq 2000 sequencing
+ERR458622	mu_sample123	SAMEA2400826	ERX424969	mutant	Illumina HiSeq 2000 sequencing
+ERR458629	mu_sample130	SAMEA2400833	ERX424976	mutant	Illumina HiSeq 2000 sequencing
+ERR458630	mu_sample131	SAMEA2400834	ERX424977	mutant	Illumina HiSeq 2000 sequencing
+ERR458636	mu_sample137	SAMEA2400840	ERX424983	mutant	Illumina HiSeq 2000 sequencing
+ERR458637	mu_sample138	SAMEA2400841	ERX424984	mutant	Illumina HiSeq 2000 sequencing
+ERR458642	mu_sample143	SAMEA2400846	ERX424989	mutant	Illumina HiSeq 2000 sequencing
+ERR458649	mu_sample150	SAMEA2400853	ERX424996	mutant	Illumina HiSeq 2000 sequencing
+ERR458656	mu_sample157	SAMEA2400860	ERX425003	mutant	Illumina HiSeq 2000 sequencing
+ERR458658	mu_sample159	SAMEA2400862	ERX425005	mutant	Illumina HiSeq 2000 sequencing
+ERR458660	mu_sample161	SAMEA2400864	ERX425007	mutant	Illumina HiSeq 2000 sequencing
+ERR458669	mu_sample170	SAMEA2400873	ERX425016	mutant	Illumina HiSeq 2000 sequencing
+ERR458674	mu_sample175	SAMEA2400878	ERX425021	mutant	Illumina HiSeq 2000 sequencing
+ERR458684	mu_sample185	SAMEA2400888	ERX425031	mutant	Illumina HiSeq 2000 sequencing
+ERR458689	mu_sample190	SAMEA2400893	ERX425036	mutant	Illumina HiSeq 2000 sequencing
+ERR458712	mu_sample213	SAMEA2400916	ERX425059	mutant	Illumina HiSeq 2000 sequencing
+ERR458716	mu_sample217	SAMEA2400920	ERX425063	mutant	Illumina HiSeq 2000 sequencing
+ERR458721	mu_sample222	SAMEA2400925	ERX425068	mutant	Illumina HiSeq 2000 sequencing
+ERR458727	mu_sample228	SAMEA2400931	ERX425074	mutant	Illumina HiSeq 2000 sequencing
+ERR458729	mu_sample230	SAMEA2400933	ERX425076	mutant	Illumina HiSeq 2000 sequencing
+ERR458731	mu_sample232	SAMEA2400935	ERX425078	mutant	Illumina HiSeq 2000 sequencing
+ERR458733	mu_sample234	SAMEA2400937	ERX425080	mutant	Illumina HiSeq 2000 sequencing
+ERR458735	mu_sample236	SAMEA2400939	ERX425082	mutant	Illumina HiSeq 2000 sequencing
+ERR458741	mu_sample242	SAMEA2400945	ERX425088	mutant	Illumina HiSeq 2000 sequencing
+ERR458742	mu_sample243	SAMEA2400946	ERX425089	mutant	Illumina HiSeq 2000 sequencing
+ERR458754	mu_sample255	SAMEA2400958	ERX425101	mutant	Illumina HiSeq 2000 sequencing
+ERR458757	mu_sample258	SAMEA2400961	ERX425104	mutant	Illumina HiSeq 2000 sequencing
+ERR458758	mu_sample259	SAMEA2400962	ERX425105	mutant	Illumina HiSeq 2000 sequencing
+ERR458761	mu_sample262	SAMEA2400965	ERX425108	mutant	Illumina HiSeq 2000 sequencing
+ERR458767	mu_sample268	SAMEA2400971	ERX425114	mutant	Illumina HiSeq 2000 sequencing
+ERR458770	mu_sample271	SAMEA2400974	ERX425117	mutant	Illumina HiSeq 2000 sequencing
+ERR458783	mu_sample284	SAMEA2400987	ERX425130	mutant	Illumina HiSeq 2000 sequencing
+ERR458795	mu_sample296	SAMEA2400999	ERX425142	mutant	Illumina HiSeq 2000 sequencing
+ERR458797	mu_sample298	SAMEA2401001	ERX425144	mutant	Illumina HiSeq 2000 sequencing
+ERR458798	mu_sample299	SAMEA2401002	ERX425145	mutant	Illumina HiSeq 2000 sequencing
+ERR458803	mu_sample304	SAMEA2401007	ERX425150	mutant	Illumina HiSeq 2000 sequencing
+ERR458806	mu_sample307	SAMEA2401010	ERX425153	mutant	Illumina HiSeq 2000 sequencing
+ERR458807	mu_sample308	SAMEA2401011	ERX425154	mutant	Illumina HiSeq 2000 sequencing
+ERR458809	mu_sample310	SAMEA2401013	ERX425156	mutant	Illumina HiSeq 2000 sequencing
+ERR458812	mu_sample313	SAMEA2401016	ERX425159	mutant	Illumina HiSeq 2000 sequencing
+ERR458814	mu_sample315	SAMEA2401018	ERX425161	mutant	Illumina HiSeq 2000 sequencing
+ERR458816	mu_sample317	SAMEA2401020	ERX425163	mutant	Illumina HiSeq 2000 sequencing
+ERR458819	mu_sample320	SAMEA2401023	ERX425166	mutant	Illumina HiSeq 2000 sequencing
+ERR458827	mu_sample328	SAMEA2401031	ERX425174	mutant	Illumina HiSeq 2000 sequencing
+ERR458832	mu_sample333	SAMEA2401036	ERX425179	mutant	Illumina HiSeq 2000 sequencing
+ERR458879	wt_sample9	SAMEA2401088	ERX425226	wild type	Illumina HiSeq 2000 sequencing
+ERR458884	wt_sample14	SAMEA2401093	ERX425231	wild type	Illumina HiSeq 2000 sequencing
+ERR458886	wt_sample16	SAMEA2401095	ERX425233	wild type	Illumina HiSeq 2000 sequencing
+ERR458890	wt_sample20	SAMEA2401099	ERX425237	wild type	Illumina HiSeq 2000 sequencing
+ERR458899	wt_sample29	SAMEA2401108	ERX425246	wild type	Illumina HiSeq 2000 sequencing
+ERR458901	wt_sample31	SAMEA2401110	ERX425248	wild type	Illumina HiSeq 2000 sequencing
+ERR458902	wt_sample32	SAMEA2401111	ERX425249	wild type	Illumina HiSeq 2000 sequencing
+ERR458911	wt_sample41	SAMEA2401120	ERX425258	wild type	Illumina HiSeq 2000 sequencing
+ERR458915	wt_sample45	SAMEA2401124	ERX425262	wild type	Illumina HiSeq 2000 sequencing
+ERR458922	wt_sample52	SAMEA2401131	ERX425269	wild type	Illumina HiSeq 2000 sequencing
+ERR458923	wt_sample53	SAMEA2401132	ERX425270	wild type	Illumina HiSeq 2000 sequencing
+ERR458924	wt_sample54	SAMEA2401133	ERX425271	wild type	Illumina HiSeq 2000 sequencing
+ERR458936	wt_sample66	SAMEA2401145	ERX425283	wild type	Illumina HiSeq 2000 sequencing
+ERR458939	wt_sample69	SAMEA2401148	ERX425286	wild type	Illumina HiSeq 2000 sequencing
+ERR458941	wt_sample71	SAMEA2401150	ERX425288	wild type	Illumina HiSeq 2000 sequencing
+ERR458945	wt_sample75	SAMEA2401154	ERX425292	wild type	Illumina HiSeq 2000 sequencing
+ERR458947	wt_sample77	SAMEA2401156	ERX425294	wild type	Illumina HiSeq 2000 sequencing
+ERR458949	wt_sample79	SAMEA2401158	ERX425296	wild type	Illumina HiSeq 2000 sequencing
+ERR458951	wt_sample81	SAMEA2401160	ERX425298	wild type	Illumina HiSeq 2000 sequencing
+ERR458958	wt_sample88	SAMEA2401167	ERX425305	wild type	Illumina HiSeq 2000 sequencing
+ERR458961	wt_sample91	SAMEA2401170	ERX425308	wild type	Illumina HiSeq 2000 sequencing
+ERR458962	wt_sample92	SAMEA2401171	ERX425309	wild type	Illumina HiSeq 2000 sequencing
+ERR458965	wt_sample95	SAMEA2401174	ERX425312	wild type	Illumina HiSeq 2000 sequencing
+ERR458966	wt_sample96	SAMEA2401175	ERX425313	wild type	Illumina HiSeq 2000 sequencing
+ERR458967	wt_sample97	SAMEA2401176	ERX425314	wild type	Illumina HiSeq 2000 sequencing
+ERR458968	wt_sample98	SAMEA2401177	ERX425315	wild type	Illumina HiSeq 2000 sequencing
+ERR458982	wt_sample112	SAMEA2401191	ERX425329	wild type	Illumina HiSeq 2000 sequencing
+ERR458987	wt_sample117	SAMEA2401196	ERX425334	wild type	Illumina HiSeq 2000 sequencing
+ERR458989	wt_sample119	SAMEA2401198	ERX425336	wild type	Illumina HiSeq 2000 sequencing
+ERR458992	wt_sample122	SAMEA2401201	ERX425339	wild type	Illumina HiSeq 2000 sequencing
+ERR458999	wt_sample129	SAMEA2401208	ERX425346	wild type	Illumina HiSeq 2000 sequencing
+ERR459000	wt_sample130	SAMEA2401209	ERX425347	wild type	Illumina HiSeq 2000 sequencing
+ERR459006	wt_sample136	SAMEA2401215	ERX425353	wild type	Illumina HiSeq 2000 sequencing
+ERR459007	wt_sample137	SAMEA2401216	ERX425354	wild type	Illumina HiSeq 2000 sequencing
+ERR459033	wt_sample163	SAMEA2401242	ERX425380	wild type	Illumina HiSeq 2000 sequencing
+ERR459042	wt_sample172	SAMEA2401251	ERX425389	wild type	Illumina HiSeq 2000 sequencing
+ERR459043	wt_sample173	SAMEA2401252	ERX425390	wild type	Illumina HiSeq 2000 sequencing
+ERR459044	wt_sample174	SAMEA2401253	ERX425391	wild type	Illumina HiSeq 2000 sequencing
+ERR459046	wt_sample176	SAMEA2401255	ERX425393	wild type	Illumina HiSeq 2000 sequencing
+ERR459056	wt_sample186	SAMEA2401265	ERX425403	wild type	Illumina HiSeq 2000 sequencing
+ERR459061	wt_sample191	SAMEA2401270	ERX425408	wild type	Illumina HiSeq 2000 sequencing
+ERR459063	wt_sample193	SAMEA2401272	ERX425410	wild type	Illumina HiSeq 2000 sequencing
+ERR459064	wt_sample194	SAMEA2401273	ERX425411	wild type	Illumina HiSeq 2000 sequencing
+ERR459069	wt_sample199	SAMEA2401278	ERX425416	wild type	Illumina HiSeq 2000 sequencing
+ERR459071	wt_sample201	SAMEA2401280	ERX425418	wild type	Illumina HiSeq 2000 sequencing
+ERR459086	wt_sample216	SAMEA2401295	ERX425433	wild type	Illumina HiSeq 2000 sequencing
+ERR459091	wt_sample221	SAMEA2401300	ERX425438	wild type	Illumina HiSeq 2000 sequencing
+ERR459094	wt_sample224	SAMEA2401303	ERX425441	wild type	Illumina HiSeq 2000 sequencing
+ERR459097	wt_sample227	SAMEA2401306	ERX425444	wild type	Illumina HiSeq 2000 sequencing
+ERR459106	wt_sample236	SAMEA2401315	ERX425453	wild type	Illumina HiSeq 2000 sequencing
+ERR459110	wt_sample240	SAMEA2401319	ERX425457	wild type	Illumina HiSeq 2000 sequencing
+ERR459115	wt_sample245	SAMEA2401324	ERX425462	wild type	Illumina HiSeq 2000 sequencing
+ERR459129	wt_sample259	SAMEA2401338	ERX425476	wild type	Illumina HiSeq 2000 sequencing
+ERR459136	wt_sample266	SAMEA2401345	ERX425483	wild type	Illumina HiSeq 2000 sequencing
+ERR459144	wt_sample274	SAMEA2401353	ERX425491	wild type	Illumina HiSeq 2000 sequencing
+ERR459150	wt_sample280	SAMEA2401359	ERX425497	wild type	Illumina HiSeq 2000 sequencing
+ERR459156	wt_sample286	SAMEA2401365	ERX425503	wild type	Illumina HiSeq 2000 sequencing
+ERR459159	wt_sample289	SAMEA2401368	ERX425506	wild type	Illumina HiSeq 2000 sequencing
+ERR459160	wt_sample290	SAMEA2401369	ERX425507	wild type	Illumina HiSeq 2000 sequencing
+ERR459162	wt_sample292	SAMEA2401371	ERX425509	wild type	Illumina HiSeq 2000 sequencing
+ERR459175	wt_sample305	SAMEA2401384	ERX425522	wild type	Illumina HiSeq 2000 sequencing
+ERR459178	wt_sample308	SAMEA2401387	ERX425525	wild type	Illumina HiSeq 2000 sequencing
+ERR459180	wt_sample310	SAMEA2401389	ERX425527	wild type	Illumina HiSeq 2000 sequencing
+ERR459184	wt_sample314	SAMEA2401393	ERX425531	wild type	Illumina HiSeq 2000 sequencing
+ERR459194	wt_sample324	SAMEA2401403	ERX425541	wild type	Illumina HiSeq 2000 sequencing
+ERR458494	wt_sample2	SAMEA2400698	ERX424841	wild type	Illumina HiSeq 2000 sequencing
+ERR458497	wt_sample5	SAMEA2400701	ERX424844	wild type	Illumina HiSeq 2000 sequencing
+ERR458498	wt_sample6	SAMEA2400702	ERX424845	wild type	Illumina HiSeq 2000 sequencing
+ERR458499	wt_sample7	SAMEA2400703	ERX424846	wild type	Illumina HiSeq 2000 sequencing
+ERR458500	mu_sample1	SAMEA2400704	ERX424847	mutant	Illumina HiSeq 2000 sequencing
+ERR458505	mu_sample6	SAMEA2400709	ERX424852	mutant	Illumina HiSeq 2000 sequencing
+ERR458507	mu_sample8	SAMEA2400711	ERX424854	mutant	Illumina HiSeq 2000 sequencing
+ERR458510	mu_sample11	SAMEA2400714	ERX424857	mutant	Illumina HiSeq 2000 sequencing
+ERR458512	mu_sample13	SAMEA2400716	ERX424859	mutant	Illumina HiSeq 2000 sequencing
+ERR458513	mu_sample14	SAMEA2400717	ERX424860	mutant	Illumina HiSeq 2000 sequencing
+ERR458516	mu_sample17	SAMEA2400720	ERX424863	mutant	Illumina HiSeq 2000 sequencing
+ERR458519	mu_sample20	SAMEA2400723	ERX424866	mutant	Illumina HiSeq 2000 sequencing
+ERR458520	mu_sample21	SAMEA2400724	ERX424867	mutant	Illumina HiSeq 2000 sequencing
+ERR458524	mu_sample25	SAMEA2400728	ERX424871	mutant	Illumina HiSeq 2000 sequencing
+ERR458532	mu_sample33	SAMEA2400736	ERX424879	mutant	Illumina HiSeq 2000 sequencing
+ERR458533	mu_sample34	SAMEA2400737	ERX424880	mutant	Illumina HiSeq 2000 sequencing
+ERR458536	mu_sample37	SAMEA2400740	ERX424883	mutant	Illumina HiSeq 2000 sequencing
+ERR458537	mu_sample38	SAMEA2400741	ERX424884	mutant	Illumina HiSeq 2000 sequencing
+ERR458540	mu_sample41	SAMEA2400744	ERX424887	mutant	Illumina HiSeq 2000 sequencing
+ERR458543	mu_sample44	SAMEA2400747	ERX424890	mutant	Illumina HiSeq 2000 sequencing
+ERR458545	mu_sample46	SAMEA2400749	ERX424892	mutant	Illumina HiSeq 2000 sequencing
+ERR458550	mu_sample51	SAMEA2400754	ERX424897	mutant	Illumina HiSeq 2000 sequencing
+ERR458554	mu_sample55	SAMEA2400758	ERX424901	mutant	Illumina HiSeq 2000 sequencing
+ERR458557	mu_sample58	SAMEA2400761	ERX424904	mutant	Illumina HiSeq 2000 sequencing
+ERR458566	mu_sample67	SAMEA2400770	ERX424913	mutant	Illumina HiSeq 2000 sequencing
+ERR458570	mu_sample71	SAMEA2400774	ERX424917	mutant	Illumina HiSeq 2000 sequencing
+ERR458573	mu_sample74	SAMEA2400777	ERX424920	mutant	Illumina HiSeq 2000 sequencing
+ERR458575	mu_sample76	SAMEA2400779	ERX424922	mutant	Illumina HiSeq 2000 sequencing
+ERR458577	mu_sample78	SAMEA2400781	ERX424924	mutant	Illumina HiSeq 2000 sequencing
+ERR458579	mu_sample80	SAMEA2400783	ERX424926	mutant	Illumina HiSeq 2000 sequencing
+ERR458581	mu_sample82	SAMEA2400785	ERX424928	mutant	Illumina HiSeq 2000 sequencing
+ERR458584	mu_sample85	SAMEA2400788	ERX424931	mutant	Illumina HiSeq 2000 sequencing
+ERR458590	mu_sample91	SAMEA2400794	ERX424937	mutant	Illumina HiSeq 2000 sequencing
+ERR458591	mu_sample92	SAMEA2400795	ERX424938	mutant	Illumina HiSeq 2000 sequencing
+ERR458592	mu_sample93	SAMEA2400796	ERX424939	mutant	Illumina HiSeq 2000 sequencing
+ERR458597	mu_sample98	SAMEA2400801	ERX424944	mutant	Illumina HiSeq 2000 sequencing
+ERR458599	mu_sample100	SAMEA2400803	ERX424946	mutant	Illumina HiSeq 2000 sequencing
+ERR458600	mu_sample101	SAMEA2400804	ERX424947	mutant	Illumina HiSeq 2000 sequencing
+ERR458614	mu_sample115	SAMEA2400818	ERX424961	mutant	Illumina HiSeq 2000 sequencing
+ERR458620	mu_sample121	SAMEA2400824	ERX424967	mutant	Illumina HiSeq 2000 sequencing
+ERR458624	mu_sample125	SAMEA2400828	ERX424971	mutant	Illumina HiSeq 2000 sequencing
+ERR458625	mu_sample126	SAMEA2400829	ERX424972	mutant	Illumina HiSeq 2000 sequencing
+ERR458628	mu_sample129	SAMEA2400832	ERX424975	mutant	Illumina HiSeq 2000 sequencing
+ERR458632	mu_sample133	SAMEA2400836	ERX424979	mutant	Illumina HiSeq 2000 sequencing
+ERR458634	mu_sample135	SAMEA2400838	ERX424981	mutant	Illumina HiSeq 2000 sequencing
+ERR458639	mu_sample140	SAMEA2400843	ERX424986	mutant	Illumina HiSeq 2000 sequencing
+ERR458641	mu_sample142	SAMEA2400845	ERX424988	mutant	Illumina HiSeq 2000 sequencing
+ERR458653	mu_sample154	SAMEA2400857	ERX425000	mutant	Illumina HiSeq 2000 sequencing
+ERR458654	mu_sample155	SAMEA2400858	ERX425001	mutant	Illumina HiSeq 2000 sequencing
+ERR458659	mu_sample160	SAMEA2400863	ERX425006	mutant	Illumina HiSeq 2000 sequencing
+ERR458661	mu_sample162	SAMEA2400865	ERX425008	mutant	Illumina HiSeq 2000 sequencing
+ERR458662	mu_sample163	SAMEA2400866	ERX425009	mutant	Illumina HiSeq 2000 sequencing
+ERR458665	mu_sample166	SAMEA2400869	ERX425012	mutant	Illumina HiSeq 2000 sequencing
+ERR458668	mu_sample169	SAMEA2400872	ERX425015	mutant	Illumina HiSeq 2000 sequencing
+ERR458672	mu_sample173	SAMEA2400876	ERX425019	mutant	Illumina HiSeq 2000 sequencing
+ERR458673	mu_sample174	SAMEA2400877	ERX425020	mutant	Illumina HiSeq 2000 sequencing
+ERR458686	mu_sample187	SAMEA2400890	ERX425033	mutant	Illumina HiSeq 2000 sequencing
+ERR458687	mu_sample188	SAMEA2400891	ERX425034	mutant	Illumina HiSeq 2000 sequencing
+ERR458688	mu_sample189	SAMEA2400892	ERX425035	mutant	Illumina HiSeq 2000 sequencing
+ERR458691	mu_sample192	SAMEA2400895	ERX425038	mutant	Illumina HiSeq 2000 sequencing
+ERR458695	mu_sample196	SAMEA2400899	ERX425042	mutant	Illumina HiSeq 2000 sequencing
+ERR458696	mu_sample197	SAMEA2400900	ERX425043	mutant	Illumina HiSeq 2000 sequencing
+ERR458706	mu_sample207	SAMEA2400910	ERX425053	mutant	Illumina HiSeq 2000 sequencing
+ERR458709	mu_sample210	SAMEA2400913	ERX425056	mutant	Illumina HiSeq 2000 sequencing
+ERR458714	mu_sample215	SAMEA2400918	ERX425061	mutant	Illumina HiSeq 2000 sequencing
+ERR458715	mu_sample216	SAMEA2400919	ERX425062	mutant	Illumina HiSeq 2000 sequencing
+ERR458720	mu_sample221	SAMEA2400924	ERX425067	mutant	Illumina HiSeq 2000 sequencing
+ERR458725	mu_sample226	SAMEA2400929	ERX425072	mutant	Illumina HiSeq 2000 sequencing
+ERR458728	mu_sample229	SAMEA2400932	ERX425075	mutant	Illumina HiSeq 2000 sequencing
+ERR458732	mu_sample233	SAMEA2400936	ERX425079	mutant	Illumina HiSeq 2000 sequencing
+ERR458734	mu_sample235	SAMEA2400938	ERX425081	mutant	Illumina HiSeq 2000 sequencing
+ERR458740	mu_sample241	SAMEA2400944	ERX425087	mutant	Illumina HiSeq 2000 sequencing
+ERR458744	mu_sample245	SAMEA2400948	ERX425091	mutant	Illumina HiSeq 2000 sequencing
+ERR458749	mu_sample250	SAMEA2400953	ERX425096	mutant	Illumina HiSeq 2000 sequencing
+ERR458750	mu_sample251	SAMEA2400954	ERX425097	mutant	Illumina HiSeq 2000 sequencing
+ERR458752	mu_sample253	SAMEA2400956	ERX425099	mutant	Illumina HiSeq 2000 sequencing
+ERR458760	mu_sample261	SAMEA2400964	ERX425107	mutant	Illumina HiSeq 2000 sequencing
+ERR458768	mu_sample269	SAMEA2400972	ERX425115	mutant	Illumina HiSeq 2000 sequencing
+ERR458769	mu_sample270	SAMEA2400973	ERX425116	mutant	Illumina HiSeq 2000 sequencing
+ERR458772	mu_sample273	SAMEA2400976	ERX425119	mutant	Illumina HiSeq 2000 sequencing
+ERR458780	mu_sample281	SAMEA2400984	ERX425127	mutant	Illumina HiSeq 2000 sequencing
+ERR458784	mu_sample285	SAMEA2400988	ERX425131	mutant	Illumina HiSeq 2000 sequencing
+ERR458792	mu_sample293	SAMEA2400996	ERX425139	mutant	Illumina HiSeq 2000 sequencing
+ERR458802	mu_sample303	SAMEA2401006	ERX425149	mutant	Illumina HiSeq 2000 sequencing
+ERR458815	mu_sample316	SAMEA2401019	ERX425162	mutant	Illumina HiSeq 2000 sequencing
+ERR458821	mu_sample322	SAMEA2401025	ERX425168	mutant	Illumina HiSeq 2000 sequencing
+ERR458822	mu_sample323	SAMEA2401026	ERX425169	mutant	Illumina HiSeq 2000 sequencing
+ERR458835	mu_sample336	SAMEA2401039	ERX425182	mutant	Illumina HiSeq 2000 sequencing
+ERR458882	wt_sample12	SAMEA2401091	ERX425229	wild type	Illumina HiSeq 2000 sequencing
+ERR458887	wt_sample17	SAMEA2401096	ERX425234	wild type	Illumina HiSeq 2000 sequencing
+ERR458905	wt_sample35	SAMEA2401114	ERX425252	wild type	Illumina HiSeq 2000 sequencing
+ERR458906	wt_sample36	SAMEA2401115	ERX425253	wild type	Illumina HiSeq 2000 sequencing
+ERR458912	wt_sample42	SAMEA2401121	ERX425259	wild type	Illumina HiSeq 2000 sequencing
+ERR458921	wt_sample51	SAMEA2401130	ERX425268	wild type	Illumina HiSeq 2000 sequencing
+ERR458925	wt_sample55	SAMEA2401134	ERX425272	wild type	Illumina HiSeq 2000 sequencing
+ERR458927	wt_sample57	SAMEA2401136	ERX425274	wild type	Illumina HiSeq 2000 sequencing
+ERR458930	wt_sample60	SAMEA2401139	ERX425277	wild type	Illumina HiSeq 2000 sequencing
+ERR458934	wt_sample64	SAMEA2401143	ERX425281	wild type	Illumina HiSeq 2000 sequencing
+ERR458938	wt_sample68	SAMEA2401147	ERX425285	wild type	Illumina HiSeq 2000 sequencing
+ERR458946	wt_sample76	SAMEA2401155	ERX425293	wild type	Illumina HiSeq 2000 sequencing
+ERR458953	wt_sample83	SAMEA2401162	ERX425300	wild type	Illumina HiSeq 2000 sequencing
+ERR458955	wt_sample85	SAMEA2401164	ERX425302	wild type	Illumina HiSeq 2000 sequencing
+ERR458959	wt_sample89	SAMEA2401168	ERX425306	wild type	Illumina HiSeq 2000 sequencing
+ERR458971	wt_sample101	SAMEA2401180	ERX425318	wild type	Illumina HiSeq 2000 sequencing
+ERR458985	wt_sample115	SAMEA2401194	ERX425332	wild type	Illumina HiSeq 2000 sequencing
+ERR458988	wt_sample118	SAMEA2401197	ERX425335	wild type	Illumina HiSeq 2000 sequencing
+ERR458993	wt_sample123	SAMEA2401202	ERX425340	wild type	Illumina HiSeq 2000 sequencing
+ERR458995	wt_sample125	SAMEA2401204	ERX425342	wild type	Illumina HiSeq 2000 sequencing
+ERR458998	wt_sample128	SAMEA2401207	ERX425345	wild type	Illumina HiSeq 2000 sequencing
+ERR459002	wt_sample132	SAMEA2401211	ERX425349	wild type	Illumina HiSeq 2000 sequencing
+ERR459003	wt_sample133	SAMEA2401212	ERX425350	wild type	Illumina HiSeq 2000 sequencing
+ERR459014	wt_sample144	SAMEA2401223	ERX425361	wild type	Illumina HiSeq 2000 sequencing
+ERR459015	wt_sample145	SAMEA2401224	ERX425362	wild type	Illumina HiSeq 2000 sequencing
+ERR459016	wt_sample146	SAMEA2401225	ERX425363	wild type	Illumina HiSeq 2000 sequencing
+ERR459021	wt_sample151	SAMEA2401230	ERX425368	wild type	Illumina HiSeq 2000 sequencing
+ERR459024	wt_sample154	SAMEA2401233	ERX425371	wild type	Illumina HiSeq 2000 sequencing
+ERR459027	wt_sample157	SAMEA2401236	ERX425374	wild type	Illumina HiSeq 2000 sequencing
+ERR459028	wt_sample158	SAMEA2401237	ERX425375	wild type	Illumina HiSeq 2000 sequencing
+ERR459030	wt_sample160	SAMEA2401239	ERX425377	wild type	Illumina HiSeq 2000 sequencing
+ERR459036	wt_sample166	SAMEA2401245	ERX425383	wild type	Illumina HiSeq 2000 sequencing
+ERR459041	wt_sample171	SAMEA2401250	ERX425388	wild type	Illumina HiSeq 2000 sequencing
+ERR459047	wt_sample177	SAMEA2401256	ERX425394	wild type	Illumina HiSeq 2000 sequencing
+ERR459048	wt_sample178	SAMEA2401257	ERX425395	wild type	Illumina HiSeq 2000 sequencing
+ERR459049	wt_sample179	SAMEA2401258	ERX425396	wild type	Illumina HiSeq 2000 sequencing
+ERR459054	wt_sample184	SAMEA2401263	ERX425401	wild type	Illumina HiSeq 2000 sequencing
+ERR459055	wt_sample185	SAMEA2401264	ERX425402	wild type	Illumina HiSeq 2000 sequencing
+ERR459059	wt_sample189	SAMEA2401268	ERX425406	wild type	Illumina HiSeq 2000 sequencing
+ERR459066	wt_sample196	SAMEA2401275	ERX425413	wild type	Illumina HiSeq 2000 sequencing
+ERR459072	wt_sample202	SAMEA2401281	ERX425419	wild type	Illumina HiSeq 2000 sequencing
+ERR459076	wt_sample206	SAMEA2401285	ERX425423	wild type	Illumina HiSeq 2000 sequencing
+ERR459077	wt_sample207	SAMEA2401286	ERX425424	wild type	Illumina HiSeq 2000 sequencing
+ERR459085	wt_sample215	SAMEA2401294	ERX425432	wild type	Illumina HiSeq 2000 sequencing
+ERR459102	wt_sample232	SAMEA2401311	ERX425449	wild type	Illumina HiSeq 2000 sequencing
+ERR459103	wt_sample233	SAMEA2401312	ERX425450	wild type	Illumina HiSeq 2000 sequencing
+ERR459109	wt_sample239	SAMEA2401318	ERX425456	wild type	Illumina HiSeq 2000 sequencing
+ERR459111	wt_sample241	SAMEA2401320	ERX425458	wild type	Illumina HiSeq 2000 sequencing
+ERR459118	wt_sample248	SAMEA2401327	ERX425465	wild type	Illumina HiSeq 2000 sequencing
+ERR459121	wt_sample251	SAMEA2401330	ERX425468	wild type	Illumina HiSeq 2000 sequencing
+ERR459123	wt_sample253	SAMEA2401332	ERX425470	wild type	Illumina HiSeq 2000 sequencing
+ERR459125	wt_sample255	SAMEA2401334	ERX425472	wild type	Illumina HiSeq 2000 sequencing
+ERR459126	wt_sample256	SAMEA2401335	ERX425473	wild type	Illumina HiSeq 2000 sequencing
+ERR459128	wt_sample258	SAMEA2401337	ERX425475	wild type	Illumina HiSeq 2000 sequencing
+ERR459140	wt_sample270	SAMEA2401349	ERX425487	wild type	Illumina HiSeq 2000 sequencing
+ERR459149	wt_sample279	SAMEA2401358	ERX425496	wild type	Illumina HiSeq 2000 sequencing
+ERR459151	wt_sample281	SAMEA2401360	ERX425498	wild type	Illumina HiSeq 2000 sequencing
+ERR459152	wt_sample282	SAMEA2401361	ERX425499	wild type	Illumina HiSeq 2000 sequencing
+ERR459153	wt_sample283	SAMEA2401362	ERX425500	wild type	Illumina HiSeq 2000 sequencing
+ERR459154	wt_sample284	SAMEA2401363	ERX425501	wild type	Illumina HiSeq 2000 sequencing
+ERR459161	wt_sample291	SAMEA2401370	ERX425508	wild type	Illumina HiSeq 2000 sequencing
+ERR459168	wt_sample298	SAMEA2401377	ERX425515	wild type	Illumina HiSeq 2000 sequencing
+ERR459171	wt_sample301	SAMEA2401380	ERX425518	wild type	Illumina HiSeq 2000 sequencing
+ERR459172	wt_sample302	SAMEA2401381	ERX425519	wild type	Illumina HiSeq 2000 sequencing
+ERR459179	wt_sample309	SAMEA2401388	ERX425526	wild type	Illumina HiSeq 2000 sequencing
+ERR459187	wt_sample317	SAMEA2401396	ERX425534	wild type	Illumina HiSeq 2000 sequencing
+ERR459196	wt_sample326	SAMEA2401405	ERX425543	wild type	Illumina HiSeq 2000 sequencing
+ERR459204	wt_sample334	SAMEA2401413	ERX425551	wild type	Illumina HiSeq 2000 sequencing
+ERR458506	mu_sample7	SAMEA2400710	ERX424853	mutant	Illumina HiSeq 2000 sequencing
+ERR458508	mu_sample9	SAMEA2400712	ERX424855	mutant	Illumina HiSeq 2000 sequencing
+ERR458521	mu_sample22	SAMEA2400725	ERX424868	mutant	Illumina HiSeq 2000 sequencing
+ERR458522	mu_sample23	SAMEA2400726	ERX424869	mutant	Illumina HiSeq 2000 sequencing
+ERR458523	mu_sample24	SAMEA2400727	ERX424870	mutant	Illumina HiSeq 2000 sequencing
+ERR458527	mu_sample28	SAMEA2400731	ERX424874	mutant	Illumina HiSeq 2000 sequencing
+ERR458531	mu_sample32	SAMEA2400735	ERX424878	mutant	Illumina HiSeq 2000 sequencing
+ERR458539	mu_sample40	SAMEA2400743	ERX424886	mutant	Illumina HiSeq 2000 sequencing
+ERR458541	mu_sample42	SAMEA2400745	ERX424888	mutant	Illumina HiSeq 2000 sequencing
+ERR458544	mu_sample45	SAMEA2400748	ERX424891	mutant	Illumina HiSeq 2000 sequencing
+ERR458547	mu_sample48	SAMEA2400751	ERX424894	mutant	Illumina HiSeq 2000 sequencing
+ERR458549	mu_sample50	SAMEA2400753	ERX424896	mutant	Illumina HiSeq 2000 sequencing
+ERR458565	mu_sample66	SAMEA2400769	ERX424912	mutant	Illumina HiSeq 2000 sequencing
+ERR458580	mu_sample81	SAMEA2400784	ERX424927	mutant	Illumina HiSeq 2000 sequencing
+ERR458589	mu_sample90	SAMEA2400793	ERX424936	mutant	Illumina HiSeq 2000 sequencing
+ERR458596	mu_sample97	SAMEA2400800	ERX424943	mutant	Illumina HiSeq 2000 sequencing
+ERR458602	mu_sample103	SAMEA2400806	ERX424949	mutant	Illumina HiSeq 2000 sequencing
+ERR458607	mu_sample108	SAMEA2400811	ERX424954	mutant	Illumina HiSeq 2000 sequencing
+ERR458608	mu_sample109	SAMEA2400812	ERX424955	mutant	Illumina HiSeq 2000 sequencing
+ERR458612	mu_sample113	SAMEA2400816	ERX424959	mutant	Illumina HiSeq 2000 sequencing
+ERR458621	mu_sample122	SAMEA2400825	ERX424968	mutant	Illumina HiSeq 2000 sequencing
+ERR458631	mu_sample132	SAMEA2400835	ERX424978	mutant	Illumina HiSeq 2000 sequencing
+ERR458643	mu_sample144	SAMEA2400847	ERX424990	mutant	Illumina HiSeq 2000 sequencing
+ERR458647	mu_sample148	SAMEA2400851	ERX424994	mutant	Illumina HiSeq 2000 sequencing
+ERR458651	mu_sample152	SAMEA2400855	ERX424998	mutant	Illumina HiSeq 2000 sequencing
+ERR458652	mu_sample153	SAMEA2400856	ERX424999	mutant	Illumina HiSeq 2000 sequencing
+ERR458655	mu_sample156	SAMEA2400859	ERX425002	mutant	Illumina HiSeq 2000 sequencing
+ERR458676	mu_sample177	SAMEA2400880	ERX425023	mutant	Illumina HiSeq 2000 sequencing
+ERR458677	mu_sample178	SAMEA2400881	ERX425024	mutant	Illumina HiSeq 2000 sequencing
+ERR458681	mu_sample182	SAMEA2400885	ERX425028	mutant	Illumina HiSeq 2000 sequencing
+ERR458685	mu_sample186	SAMEA2400889	ERX425032	mutant	Illumina HiSeq 2000 sequencing
+ERR458693	mu_sample194	SAMEA2400897	ERX425040	mutant	Illumina HiSeq 2000 sequencing
+ERR458697	mu_sample198	SAMEA2400901	ERX425044	mutant	Illumina HiSeq 2000 sequencing
+ERR458698	mu_sample199	SAMEA2400902	ERX425045	mutant	Illumina HiSeq 2000 sequencing
+ERR458707	mu_sample208	SAMEA2400911	ERX425054	mutant	Illumina HiSeq 2000 sequencing
+ERR458708	mu_sample209	SAMEA2400912	ERX425055	mutant	Illumina HiSeq 2000 sequencing
+ERR458717	mu_sample218	SAMEA2400921	ERX425064	mutant	Illumina HiSeq 2000 sequencing
+ERR458738	mu_sample239	SAMEA2400942	ERX425085	mutant	Illumina HiSeq 2000 sequencing
+ERR458751	mu_sample252	SAMEA2400955	ERX425098	mutant	Illumina HiSeq 2000 sequencing
+ERR458755	mu_sample256	SAMEA2400959	ERX425102	mutant	Illumina HiSeq 2000 sequencing
+ERR458756	mu_sample257	SAMEA2400960	ERX425103	mutant	Illumina HiSeq 2000 sequencing
+ERR458759	mu_sample260	SAMEA2400963	ERX425106	mutant	Illumina HiSeq 2000 sequencing
+ERR458762	mu_sample263	SAMEA2400966	ERX425109	mutant	Illumina HiSeq 2000 sequencing
+ERR458764	mu_sample265	SAMEA2400968	ERX425111	mutant	Illumina HiSeq 2000 sequencing
+ERR458779	mu_sample280	SAMEA2400983	ERX425126	mutant	Illumina HiSeq 2000 sequencing
+ERR458781	mu_sample282	SAMEA2400985	ERX425128	mutant	Illumina HiSeq 2000 sequencing
+ERR458787	mu_sample288	SAMEA2400991	ERX425134	mutant	Illumina HiSeq 2000 sequencing
+ERR458789	mu_sample290	SAMEA2400993	ERX425136	mutant	Illumina HiSeq 2000 sequencing
+ERR458791	mu_sample292	SAMEA2400995	ERX425138	mutant	Illumina HiSeq 2000 sequencing
+ERR458800	mu_sample301	SAMEA2401004	ERX425147	mutant	Illumina HiSeq 2000 sequencing
+ERR458801	mu_sample302	SAMEA2401005	ERX425148	mutant	Illumina HiSeq 2000 sequencing
+ERR458804	mu_sample305	SAMEA2401008	ERX425151	mutant	Illumina HiSeq 2000 sequencing
+ERR458808	mu_sample309	SAMEA2401012	ERX425155	mutant	Illumina HiSeq 2000 sequencing
+ERR458811	mu_sample312	SAMEA2401015	ERX425158	mutant	Illumina HiSeq 2000 sequencing
+ERR458818	mu_sample319	SAMEA2401022	ERX425165	mutant	Illumina HiSeq 2000 sequencing
+ERR458820	mu_sample321	SAMEA2401024	ERX425167	mutant	Illumina HiSeq 2000 sequencing
+ERR458823	mu_sample324	SAMEA2401027	ERX425170	mutant	Illumina HiSeq 2000 sequencing
+ERR458825	mu_sample326	SAMEA2401029	ERX425172	mutant	Illumina HiSeq 2000 sequencing
+ERR458829	mu_sample330	SAMEA2401033	ERX425176	mutant	Illumina HiSeq 2000 sequencing
+ERR458878	wt_sample8	SAMEA2401087	ERX425225	wild type	Illumina HiSeq 2000 sequencing
+ERR458880	wt_sample10	SAMEA2401089	ERX425227	wild type	Illumina HiSeq 2000 sequencing
+ERR458883	wt_sample13	SAMEA2401092	ERX425230	wild type	Illumina HiSeq 2000 sequencing
+ERR458888	wt_sample18	SAMEA2401097	ERX425235	wild type	Illumina HiSeq 2000 sequencing
+ERR458889	wt_sample19	SAMEA2401098	ERX425236	wild type	Illumina HiSeq 2000 sequencing
+ERR458891	wt_sample21	SAMEA2401100	ERX425238	wild type	Illumina HiSeq 2000 sequencing
+ERR458893	wt_sample23	SAMEA2401102	ERX425240	wild type	Illumina HiSeq 2000 sequencing
+ERR458894	wt_sample24	SAMEA2401103	ERX425241	wild type	Illumina HiSeq 2000 sequencing
+ERR458895	wt_sample25	SAMEA2401104	ERX425242	wild type	Illumina HiSeq 2000 sequencing
+ERR458897	wt_sample27	SAMEA2401106	ERX425244	wild type	Illumina HiSeq 2000 sequencing
+ERR458909	wt_sample39	SAMEA2401118	ERX425256	wild type	Illumina HiSeq 2000 sequencing
+ERR458918	wt_sample48	SAMEA2401127	ERX425265	wild type	Illumina HiSeq 2000 sequencing
+ERR458926	wt_sample56	SAMEA2401135	ERX425273	wild type	Illumina HiSeq 2000 sequencing
+ERR458929	wt_sample59	SAMEA2401138	ERX425276	wild type	Illumina HiSeq 2000 sequencing
+ERR458935	wt_sample65	SAMEA2401144	ERX425282	wild type	Illumina HiSeq 2000 sequencing
+ERR458937	wt_sample67	SAMEA2401146	ERX425284	wild type	Illumina HiSeq 2000 sequencing
+ERR458940	wt_sample70	SAMEA2401149	ERX425287	wild type	Illumina HiSeq 2000 sequencing
+ERR458942	wt_sample72	SAMEA2401151	ERX425289	wild type	Illumina HiSeq 2000 sequencing
+ERR458944	wt_sample74	SAMEA2401153	ERX425291	wild type	Illumina HiSeq 2000 sequencing
+ERR458948	wt_sample78	SAMEA2401157	ERX425295	wild type	Illumina HiSeq 2000 sequencing
+ERR458963	wt_sample93	SAMEA2401172	ERX425310	wild type	Illumina HiSeq 2000 sequencing
+ERR458969	wt_sample99	SAMEA2401178	ERX425316	wild type	Illumina HiSeq 2000 sequencing
+ERR458972	wt_sample102	SAMEA2401181	ERX425319	wild type	Illumina HiSeq 2000 sequencing
+ERR458973	wt_sample103	SAMEA2401182	ERX425320	wild type	Illumina HiSeq 2000 sequencing
+ERR458974	wt_sample104	SAMEA2401183	ERX425321	wild type	Illumina HiSeq 2000 sequencing
+ERR458976	wt_sample106	SAMEA2401185	ERX425323	wild type	Illumina HiSeq 2000 sequencing
+ERR458980	wt_sample110	SAMEA2401189	ERX425327	wild type	Illumina HiSeq 2000 sequencing
+ERR458984	wt_sample114	SAMEA2401193	ERX425331	wild type	Illumina HiSeq 2000 sequencing
+ERR458994	wt_sample124	SAMEA2401203	ERX425341	wild type	Illumina HiSeq 2000 sequencing
+ERR459004	wt_sample134	SAMEA2401213	ERX425351	wild type	Illumina HiSeq 2000 sequencing
+ERR459008	wt_sample138	SAMEA2401217	ERX425355	wild type	Illumina HiSeq 2000 sequencing
+ERR459012	wt_sample142	SAMEA2401221	ERX425359	wild type	Illumina HiSeq 2000 sequencing
+ERR459019	wt_sample149	SAMEA2401228	ERX425366	wild type	Illumina HiSeq 2000 sequencing
+ERR459020	wt_sample150	SAMEA2401229	ERX425367	wild type	Illumina HiSeq 2000 sequencing
+ERR459026	wt_sample156	SAMEA2401235	ERX425373	wild type	Illumina HiSeq 2000 sequencing
+ERR459032	wt_sample162	SAMEA2401241	ERX425379	wild type	Illumina HiSeq 2000 sequencing
+ERR459037	wt_sample167	SAMEA2401246	ERX425384	wild type	Illumina HiSeq 2000 sequencing
+ERR459039	wt_sample169	SAMEA2401248	ERX425386	wild type	Illumina HiSeq 2000 sequencing
+ERR459045	wt_sample175	SAMEA2401254	ERX425392	wild type	Illumina HiSeq 2000 sequencing
+ERR459051	wt_sample181	SAMEA2401260	ERX425398	wild type	Illumina HiSeq 2000 sequencing
+ERR459052	wt_sample182	SAMEA2401261	ERX425399	wild type	Illumina HiSeq 2000 sequencing
+ERR459062	wt_sample192	SAMEA2401271	ERX425409	wild type	Illumina HiSeq 2000 sequencing
+ERR459067	wt_sample197	SAMEA2401276	ERX425414	wild type	Illumina HiSeq 2000 sequencing
+ERR459074	wt_sample204	SAMEA2401283	ERX425421	wild type	Illumina HiSeq 2000 sequencing
+ERR459075	wt_sample205	SAMEA2401284	ERX425422	wild type	Illumina HiSeq 2000 sequencing
+ERR459079	wt_sample209	SAMEA2401288	ERX425426	wild type	Illumina HiSeq 2000 sequencing
+ERR459080	wt_sample210	SAMEA2401289	ERX425427	wild type	Illumina HiSeq 2000 sequencing
+ERR459081	wt_sample211	SAMEA2401290	ERX425428	wild type	Illumina HiSeq 2000 sequencing
+ERR459083	wt_sample213	SAMEA2401292	ERX425430	wild type	Illumina HiSeq 2000 sequencing
+ERR459084	wt_sample214	SAMEA2401293	ERX425431	wild type	Illumina HiSeq 2000 sequencing
+ERR459088	wt_sample218	SAMEA2401297	ERX425435	wild type	Illumina HiSeq 2000 sequencing
+ERR459089	wt_sample219	SAMEA2401298	ERX425436	wild type	Illumina HiSeq 2000 sequencing
+ERR459093	wt_sample223	SAMEA2401302	ERX425440	wild type	Illumina HiSeq 2000 sequencing
+ERR459105	wt_sample235	SAMEA2401314	ERX425452	wild type	Illumina HiSeq 2000 sequencing
+ERR459108	wt_sample238	SAMEA2401317	ERX425455	wild type	Illumina HiSeq 2000 sequencing
+ERR459113	wt_sample243	SAMEA2401322	ERX425460	wild type	Illumina HiSeq 2000 sequencing
+ERR459117	wt_sample247	SAMEA2401326	ERX425464	wild type	Illumina HiSeq 2000 sequencing
+ERR459122	wt_sample252	SAMEA2401331	ERX425469	wild type	Illumina HiSeq 2000 sequencing
+ERR459124	wt_sample254	SAMEA2401333	ERX425471	wild type	Illumina HiSeq 2000 sequencing
+ERR459133	wt_sample263	SAMEA2401342	ERX425480	wild type	Illumina HiSeq 2000 sequencing
+ERR459139	wt_sample269	SAMEA2401348	ERX425486	wild type	Illumina HiSeq 2000 sequencing
+ERR459155	wt_sample285	SAMEA2401364	ERX425502	wild type	Illumina HiSeq 2000 sequencing
+ERR459165	wt_sample295	SAMEA2401374	ERX425512	wild type	Illumina HiSeq 2000 sequencing
+ERR459174	wt_sample304	SAMEA2401383	ERX425521	wild type	Illumina HiSeq 2000 sequencing
+ERR459176	wt_sample306	SAMEA2401385	ERX425523	wild type	Illumina HiSeq 2000 sequencing
+ERR459188	wt_sample318	SAMEA2401397	ERX425535	wild type	Illumina HiSeq 2000 sequencing
+ERR459191	wt_sample321	SAMEA2401400	ERX425538	wild type	Illumina HiSeq 2000 sequencing
+ERR459192	wt_sample322	SAMEA2401401	ERX425539	wild type	Illumina HiSeq 2000 sequencing
+ERR459195	wt_sample325	SAMEA2401404	ERX425542	wild type	Illumina HiSeq 2000 sequencing
+ERR459198	wt_sample328	SAMEA2401407	ERX425545	wild type	Illumina HiSeq 2000 sequencing
+ERR459200	wt_sample330	SAMEA2401409	ERX425547	wild type	Illumina HiSeq 2000 sequencing
+ERR459201	wt_sample331	SAMEA2401410	ERX425548	wild type	Illumina HiSeq 2000 sequencing
+ERR458495	wt_sample3	SAMEA2400699	ERX424842	wild type	Illumina HiSeq 2000 sequencing
+ERR458496	wt_sample3	SAMEA2400699	ERX424843	wild type	Illumina HiSeq 2000 sequencing
+ERR458501	mu_sample2	SAMEA2400705	ERX424848	mutant	Illumina HiSeq 2000 sequencing
+ERR458504	mu_sample5	SAMEA2400708	ERX424851	mutant	Illumina HiSeq 2000 sequencing
+ERR458511	mu_sample12	SAMEA2400715	ERX424858	mutant	Illumina HiSeq 2000 sequencing
+ERR458518	mu_sample19	SAMEA2400722	ERX424865	mutant	Illumina HiSeq 2000 sequencing
+ERR458525	mu_sample26	SAMEA2400729	ERX424872	mutant	Illumina HiSeq 2000 sequencing
+ERR458534	mu_sample35	SAMEA2400738	ERX424881	mutant	Illumina HiSeq 2000 sequencing
+ERR458542	mu_sample43	SAMEA2400746	ERX424889	mutant	Illumina HiSeq 2000 sequencing
+ERR458551	mu_sample52	SAMEA2400755	ERX424898	mutant	Illumina HiSeq 2000 sequencing
+ERR458559	mu_sample60	SAMEA2400763	ERX424906	mutant	Illumina HiSeq 2000 sequencing
+ERR458560	mu_sample61	SAMEA2400764	ERX424907	mutant	Illumina HiSeq 2000 sequencing
+ERR458564	mu_sample65	SAMEA2400768	ERX424911	mutant	Illumina HiSeq 2000 sequencing
+ERR458571	mu_sample72	SAMEA2400775	ERX424918	mutant	Illumina HiSeq 2000 sequencing
+ERR458578	mu_sample79	SAMEA2400782	ERX424925	mutant	Illumina HiSeq 2000 sequencing
+ERR458582	mu_sample83	SAMEA2400786	ERX424929	mutant	Illumina HiSeq 2000 sequencing
+ERR458586	mu_sample87	SAMEA2400790	ERX424933	mutant	Illumina HiSeq 2000 sequencing
+ERR458593	mu_sample94	SAMEA2400797	ERX424940	mutant	Illumina HiSeq 2000 sequencing
+ERR458598	mu_sample99	SAMEA2400802	ERX424945	mutant	Illumina HiSeq 2000 sequencing
+ERR458604	mu_sample105	SAMEA2400808	ERX424951	mutant	Illumina HiSeq 2000 sequencing
+ERR458613	mu_sample114	SAMEA2400817	ERX424960	mutant	Illumina HiSeq 2000 sequencing
+ERR458616	mu_sample117	SAMEA2400820	ERX424963	mutant	Illumina HiSeq 2000 sequencing
+ERR458617	mu_sample118	SAMEA2400821	ERX424964	mutant	Illumina HiSeq 2000 sequencing
+ERR458619	mu_sample120	SAMEA2400823	ERX424966	mutant	Illumina HiSeq 2000 sequencing
+ERR458633	mu_sample134	SAMEA2400837	ERX424980	mutant	Illumina HiSeq 2000 sequencing
+ERR458645	mu_sample146	SAMEA2400849	ERX424992	mutant	Illumina HiSeq 2000 sequencing
+ERR458650	mu_sample151	SAMEA2400854	ERX424997	mutant	Illumina HiSeq 2000 sequencing
+ERR458657	mu_sample158	SAMEA2400861	ERX425004	mutant	Illumina HiSeq 2000 sequencing
+ERR458664	mu_sample165	SAMEA2400868	ERX425011	mutant	Illumina HiSeq 2000 sequencing
+ERR458670	mu_sample171	SAMEA2400874	ERX425017	mutant	Illumina HiSeq 2000 sequencing
+ERR458679	mu_sample180	SAMEA2400883	ERX425026	mutant	Illumina HiSeq 2000 sequencing
+ERR458690	mu_sample191	SAMEA2400894	ERX425037	mutant	Illumina HiSeq 2000 sequencing
+ERR458692	mu_sample193	SAMEA2400896	ERX425039	mutant	Illumina HiSeq 2000 sequencing
+ERR458701	mu_sample202	SAMEA2400905	ERX425048	mutant	Illumina HiSeq 2000 sequencing
+ERR458705	mu_sample206	SAMEA2400909	ERX425052	mutant	Illumina HiSeq 2000 sequencing
+ERR458710	mu_sample211	SAMEA2400914	ERX425057	mutant	Illumina HiSeq 2000 sequencing
+ERR458711	mu_sample212	SAMEA2400915	ERX425058	mutant	Illumina HiSeq 2000 sequencing
+ERR458719	mu_sample220	SAMEA2400923	ERX425066	mutant	Illumina HiSeq 2000 sequencing
+ERR458722	mu_sample223	SAMEA2400926	ERX425069	mutant	Illumina HiSeq 2000 sequencing
+ERR458723	mu_sample224	SAMEA2400927	ERX425070	mutant	Illumina HiSeq 2000 sequencing
+ERR458726	mu_sample227	SAMEA2400930	ERX425073	mutant	Illumina HiSeq 2000 sequencing
+ERR458730	mu_sample231	SAMEA2400934	ERX425077	mutant	Illumina HiSeq 2000 sequencing
+ERR458737	mu_sample238	SAMEA2400941	ERX425084	mutant	Illumina HiSeq 2000 sequencing
+ERR458745	mu_sample246	SAMEA2400949	ERX425092	mutant	Illumina HiSeq 2000 sequencing
+ERR458748	mu_sample249	SAMEA2400952	ERX425095	mutant	Illumina HiSeq 2000 sequencing
+ERR458753	mu_sample254	SAMEA2400957	ERX425100	mutant	Illumina HiSeq 2000 sequencing
+ERR458763	mu_sample264	SAMEA2400967	ERX425110	mutant	Illumina HiSeq 2000 sequencing
+ERR458765	mu_sample266	SAMEA2400969	ERX425112	mutant	Illumina HiSeq 2000 sequencing
+ERR458771	mu_sample272	SAMEA2400975	ERX425118	mutant	Illumina HiSeq 2000 sequencing
+ERR458773	mu_sample274	SAMEA2400977	ERX425120	mutant	Illumina HiSeq 2000 sequencing
+ERR458775	mu_sample276	SAMEA2400979	ERX425122	mutant	Illumina HiSeq 2000 sequencing
+ERR458776	mu_sample277	SAMEA2400980	ERX425123	mutant	Illumina HiSeq 2000 sequencing
+ERR458778	mu_sample279	SAMEA2400982	ERX425125	mutant	Illumina HiSeq 2000 sequencing
+ERR458782	mu_sample283	SAMEA2400986	ERX425129	mutant	Illumina HiSeq 2000 sequencing
+ERR458785	mu_sample286	SAMEA2400989	ERX425132	mutant	Illumina HiSeq 2000 sequencing
+ERR458793	mu_sample294	SAMEA2400997	ERX425140	mutant	Illumina HiSeq 2000 sequencing
+ERR458794	mu_sample295	SAMEA2400998	ERX425141	mutant	Illumina HiSeq 2000 sequencing
+ERR458796	mu_sample297	SAMEA2401000	ERX425143	mutant	Illumina HiSeq 2000 sequencing
+ERR458810	mu_sample311	SAMEA2401014	ERX425157	mutant	Illumina HiSeq 2000 sequencing
+ERR458813	mu_sample314	SAMEA2401017	ERX425160	mutant	Illumina HiSeq 2000 sequencing
+ERR458817	mu_sample318	SAMEA2401021	ERX425164	mutant	Illumina HiSeq 2000 sequencing
+ERR458824	mu_sample325	SAMEA2401028	ERX425171	mutant	Illumina HiSeq 2000 sequencing
+ERR458881	wt_sample11	SAMEA2401090	ERX425228	wild type	Illumina HiSeq 2000 sequencing
+ERR458885	wt_sample15	SAMEA2401094	ERX425232	wild type	Illumina HiSeq 2000 sequencing
+ERR458903	wt_sample33	SAMEA2401112	ERX425250	wild type	Illumina HiSeq 2000 sequencing
+ERR458904	wt_sample34	SAMEA2401113	ERX425251	wild type	Illumina HiSeq 2000 sequencing
+ERR458907	wt_sample37	SAMEA2401116	ERX425254	wild type	Illumina HiSeq 2000 sequencing
+ERR458908	wt_sample38	SAMEA2401117	ERX425255	wild type	Illumina HiSeq 2000 sequencing
+ERR458910	wt_sample40	SAMEA2401119	ERX425257	wild type	Illumina HiSeq 2000 sequencing
+ERR458914	wt_sample44	SAMEA2401123	ERX425261	wild type	Illumina HiSeq 2000 sequencing
+ERR458928	wt_sample58	SAMEA2401137	ERX425275	wild type	Illumina HiSeq 2000 sequencing
+ERR458950	wt_sample80	SAMEA2401159	ERX425297	wild type	Illumina HiSeq 2000 sequencing
+ERR458952	wt_sample82	SAMEA2401161	ERX425299	wild type	Illumina HiSeq 2000 sequencing
+ERR458954	wt_sample84	SAMEA2401163	ERX425301	wild type	Illumina HiSeq 2000 sequencing
+ERR458956	wt_sample86	SAMEA2401165	ERX425303	wild type	Illumina HiSeq 2000 sequencing
+ERR458957	wt_sample87	SAMEA2401166	ERX425304	wild type	Illumina HiSeq 2000 sequencing
+ERR458975	wt_sample105	SAMEA2401184	ERX425322	wild type	Illumina HiSeq 2000 sequencing
+ERR458979	wt_sample109	SAMEA2401188	ERX425326	wild type	Illumina HiSeq 2000 sequencing
+ERR458986	wt_sample116	SAMEA2401195	ERX425333	wild type	Illumina HiSeq 2000 sequencing
+ERR458990	wt_sample120	SAMEA2401199	ERX425337	wild type	Illumina HiSeq 2000 sequencing
+ERR458991	wt_sample121	SAMEA2401200	ERX425338	wild type	Illumina HiSeq 2000 sequencing
+ERR458997	wt_sample127	SAMEA2401206	ERX425344	wild type	Illumina HiSeq 2000 sequencing
+ERR459005	wt_sample135	SAMEA2401214	ERX425352	wild type	Illumina HiSeq 2000 sequencing
+ERR459009	wt_sample139	SAMEA2401218	ERX425356	wild type	Illumina HiSeq 2000 sequencing
+ERR459017	wt_sample147	SAMEA2401226	ERX425364	wild type	Illumina HiSeq 2000 sequencing
+ERR459018	wt_sample148	SAMEA2401227	ERX425365	wild type	Illumina HiSeq 2000 sequencing
+ERR459023	wt_sample153	SAMEA2401232	ERX425370	wild type	Illumina HiSeq 2000 sequencing
+ERR459025	wt_sample155	SAMEA2401234	ERX425372	wild type	Illumina HiSeq 2000 sequencing
+ERR459031	wt_sample161	SAMEA2401240	ERX425378	wild type	Illumina HiSeq 2000 sequencing
+ERR459034	wt_sample164	SAMEA2401243	ERX425381	wild type	Illumina HiSeq 2000 sequencing
+ERR459035	wt_sample165	SAMEA2401244	ERX425382	wild type	Illumina HiSeq 2000 sequencing
+ERR459040	wt_sample170	SAMEA2401249	ERX425387	wild type	Illumina HiSeq 2000 sequencing
+ERR459050	wt_sample180	SAMEA2401259	ERX425397	wild type	Illumina HiSeq 2000 sequencing
+ERR459057	wt_sample187	SAMEA2401266	ERX425404	wild type	Illumina HiSeq 2000 sequencing
+ERR459058	wt_sample188	SAMEA2401267	ERX425405	wild type	Illumina HiSeq 2000 sequencing
+ERR459068	wt_sample198	SAMEA2401277	ERX425415	wild type	Illumina HiSeq 2000 sequencing
+ERR459073	wt_sample203	SAMEA2401282	ERX425420	wild type	Illumina HiSeq 2000 sequencing
+ERR459078	wt_sample208	SAMEA2401287	ERX425425	wild type	Illumina HiSeq 2000 sequencing
+ERR459082	wt_sample212	SAMEA2401291	ERX425429	wild type	Illumina HiSeq 2000 sequencing
+ERR459087	wt_sample217	SAMEA2401296	ERX425434	wild type	Illumina HiSeq 2000 sequencing
+ERR459092	wt_sample222	SAMEA2401301	ERX425439	wild type	Illumina HiSeq 2000 sequencing
+ERR459095	wt_sample225	SAMEA2401304	ERX425442	wild type	Illumina HiSeq 2000 sequencing
+ERR459096	wt_sample226	SAMEA2401305	ERX425443	wild type	Illumina HiSeq 2000 sequencing
+ERR459104	wt_sample234	SAMEA2401313	ERX425451	wild type	Illumina HiSeq 2000 sequencing
+ERR459112	wt_sample242	SAMEA2401321	ERX425459	wild type	Illumina HiSeq 2000 sequencing
+ERR459114	wt_sample244	SAMEA2401323	ERX425461	wild type	Illumina HiSeq 2000 sequencing
+ERR459120	wt_sample250	SAMEA2401329	ERX425467	wild type	Illumina HiSeq 2000 sequencing
+ERR459130	wt_sample260	SAMEA2401339	ERX425477	wild type	Illumina HiSeq 2000 sequencing
+ERR459138	wt_sample268	SAMEA2401347	ERX425485	wild type	Illumina HiSeq 2000 sequencing
+ERR459141	wt_sample271	SAMEA2401350	ERX425488	wild type	Illumina HiSeq 2000 sequencing
+ERR459142	wt_sample272	SAMEA2401351	ERX425489	wild type	Illumina HiSeq 2000 sequencing
+ERR459143	wt_sample273	SAMEA2401352	ERX425490	wild type	Illumina HiSeq 2000 sequencing
+ERR459146	wt_sample276	SAMEA2401355	ERX425493	wild type	Illumina HiSeq 2000 sequencing
+ERR459147	wt_sample277	SAMEA2401356	ERX425494	wild type	Illumina HiSeq 2000 sequencing
+ERR459157	wt_sample287	SAMEA2401366	ERX425504	wild type	Illumina HiSeq 2000 sequencing
+ERR459163	wt_sample293	SAMEA2401372	ERX425510	wild type	Illumina HiSeq 2000 sequencing
+ERR459166	wt_sample296	SAMEA2401375	ERX425513	wild type	Illumina HiSeq 2000 sequencing
+ERR459167	wt_sample297	SAMEA2401376	ERX425514	wild type	Illumina HiSeq 2000 sequencing
+ERR459181	wt_sample311	SAMEA2401390	ERX425528	wild type	Illumina HiSeq 2000 sequencing
+ERR459182	wt_sample312	SAMEA2401391	ERX425529	wild type	Illumina HiSeq 2000 sequencing
+ERR459183	wt_sample313	SAMEA2401392	ERX425530	wild type	Illumina HiSeq 2000 sequencing
+ERR459185	wt_sample315	SAMEA2401394	ERX425532	wild type	Illumina HiSeq 2000 sequencing
+ERR459186	wt_sample316	SAMEA2401395	ERX425533	wild type	Illumina HiSeq 2000 sequencing
+ERR459190	wt_sample320	SAMEA2401399	ERX425537	wild type	Illumina HiSeq 2000 sequencing
+ERR459193	wt_sample323	SAMEA2401402	ERX425540	wild type	Illumina HiSeq 2000 sequencing
+ERR459197	wt_sample327	SAMEA2401406	ERX425544	wild type	Illumina HiSeq 2000 sequencing
+ERR459202	wt_sample332	SAMEA2401411	ERX425549	wild type	Illumina HiSeq 2000 sequencing
+ERR459203	wt_sample333	SAMEA2401412	ERX425550	wild type	Illumina HiSeq 2000 sequencing
+ERR459206	wt_sample336	SAMEA2401415	ERX425553	wild type	Illumina HiSeq 2000 sequencing
