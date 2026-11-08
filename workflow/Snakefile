@@ -7,8 +7,12 @@ with open(config["samples"]) as f:
 
 include: "rules/download.smk"
 include: "rules/qc.smk"
+include: "rules/reference.smk"
+include: "rules/quant.smk"
 
 rule all:
     input:
         expand("data/raw/{sample}.fastq.gz", sample=SAMPLES),
         "results/multiqc/multiqc_report.html",
+        "resources/salmon_index",
+        expand("results/salmon/{sample}/quant.sf", sample=SAMPLES),

@@ -1,1 +1,7 @@
 samples: "config/samples.tsv"
+reference:
+  base_url: "https://ftp.ensembl.org/pub/release-116/fasta/saccharomyces_cerevisiae"
+  cdna: "cdna/Saccharomyces_cerevisiae.R64-1-1.cdna.all.fa.gz"
+  cdna_bytes: 3806426
+  genome: "dna/Saccharomyces_cerevisiae.R64-1-1.dna.toplevel.fa.gz"
+  genome_bytes: 3784201
