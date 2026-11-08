@@ -71,7 +71,8 @@ Main outputs: `results/multiqc/multiqc_report.html`, `results/deseq2/de_results.
 | DESeq2 | 1.50.2 |
 | tximport | 1.38.2 |
 
-## Repository layoutconfig/ config.yaml, samples.tsv (the 6 chosen samples)
+## Repository layout
+config/ config.yaml, samples.tsv (the 6 chosen samples)
 metadata/ ENA run tables and the seeded sample selection
 workflow/ Snakefile, rules/, envs/, scripts/
 docs/figures/ result figures used in this README
