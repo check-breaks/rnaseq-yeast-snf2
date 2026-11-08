@@ -18,3 +18,6 @@ rule all:
         "results/multiqc/multiqc_report.html",
         "resources/salmon_index",
         expand("results/salmon/{sample}/quant.sf", sample=SAMPLES),
+        "results/deseq2/de_results.tsv",
+        "results/deseq2/pca.png",
+        "results/deseq2/volcano.png",
