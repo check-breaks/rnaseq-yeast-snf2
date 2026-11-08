@@ -9,6 +9,7 @@ include: "rules/download.smk"
 include: "rules/qc.smk"
 include: "rules/reference.smk"
 include: "rules/quant.smk"
+include: "rules/gene_level.smk"
 
 rule all:
     input:
