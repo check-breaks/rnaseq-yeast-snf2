@@ -1,0 +1,6 @@
+name: rnaseq-smk
+channels:
+  - bioconda
+dependencies:
+  - snakemake>=9
+
